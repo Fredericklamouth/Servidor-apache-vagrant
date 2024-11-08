@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/frede/OneDrive/Escritorio/Servidor-apache-vagrant/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/frede/OneDrive/Escritorio/Servidor-apache-vagrant","disabled":false,"__vagrantfile":true}}}
